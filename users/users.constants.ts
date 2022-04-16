@@ -1,0 +1,1 @@
+export const ACCEPTABLE_METHODS = ['GET', 'POST', 'PATCH', 'DELETE'];
